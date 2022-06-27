@@ -1,0 +1,18 @@
+<html>
+	<body>
+		<h3>Hi Adrian, you have a new suggested podcast!</h3>
+		<p>
+			From - $name / $email
+		</p>
+		<h3>
+			Podcast metadataline
+		</h3>
+		<h3>
+			With the message
+		</h3>
+		<p>
+			$message
+		</p>
+	</body>
+
+</html>
